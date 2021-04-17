@@ -1,0 +1,81 @@
+{
+    "installations": [
+        {
+            "name": "OperaGX.exe",
+            "url": "https://net.geo.opera.com/opera_gx/stable/windows?utm_tryagain=yes&utm_source=(direct)_via_opera_com&utm_medium=doc&utm_campaign=(direct)_via_opera_com_https&http_referrer=missing_via_opera_com&utm_site=opera_com&utm_lastpage=opera.com/gx"
+        },
+        {
+            "name": "Glary_Utilities_.exe",
+            "url": "https://download.glarysoft.com/gu5setup.exe"
+        },
+        {
+            "name": "WinRAR.exe",
+            "url": "https://www.rarlab.com/rar/winrar-x64-600it.exe"
+        },
+        {
+            "name": "System_Ninja.exe",
+            "url": "https://dw.uptodown.com/dwn/Lcg-ZvziV_KWRF_jvHIG97cBZAajbVX8PD958thNSefg5LSPnBHYxm93GmejG4TDw3sIH7j61bAMkkUCIZrntborO8m5_-5U3ALnOqQUCkWGBahEgC7fbLBlIok08pcI/1N8gYqDK28hsuo60MGcyVq_UMZacjnJnGUCK0LOrM0LacTgvEXe2I8cj2Wd_iTFO9xSKl_UpPU4uOVl6Hk6tljvmUx49byFz7MnlfabysKRWRbdMXn5YWPvt9FDncu6g/WiXZWQvq2E7-nJLpc9szZOi0zvfT2cMYByFBjZ-0UNmBKhl8Sw6C4hJu6vVerJXKpPmJzMF2brZC8Mc03Bkl6w==/"
+        },
+        {
+            "name": "RevoUnistaller.exe",
+            "url": "https://www.revouninstaller.com/download-freeware-version.php"
+        },
+        {
+            "name": "Malwarebytes.exe",
+            "url": "https://downloads.malwarebytes.com/file/mb-windows"
+        },
+        {
+            "name": "Geforce_Experience.exe",
+            "url": "https://it.download.nvidia.com/GFE/GFEClient/3.21.0.36/GeForce_Experience_v3.21.0.36.exe"
+        },
+        {
+            "name": "Driver_Booster.exe",
+            "url": "https://download.html.it/software/driver-booster/?os=windows"
+        },
+        {
+            "name": "Kaspersky_Password_Menager.exe",
+            "url": "https://www.revouninstaller.com/it/start-freeware-download"
+        },
+        {
+            "name": "CPU-Z.exe",
+            "url": "https://download.cpuid.com/cpu-z/cpu-z_1.95-rog-en.exe"
+        },
+        {
+            "name": "Rufus.exe",
+            "url": "https://github.com/pbatard/rufus/releases/download/v3.13/rufus-3.13.exe"
+        },
+        {
+            "name": "TeamViewer.exe",
+            "url": "https://www.teamviewer.com/it/download-automatico-teamviewer/"
+        },
+        {
+            "name": "Aida64.exe",
+            "url": "https://www.aida64.com/downloads/ZjE5OGQ4OGQ="
+        },
+        {
+            "name": "HWInfo.exe",
+            "url": "https://www.fosshub.com/HWiNFO.html?dwl=hwi_642.exe"
+        },
+        {
+            "name": "Smart_Defrag.exe",
+            "url": "https://www.iobit.com/downloadcenter.php?product=it-smart-defrag"
+        },
+        {
+            "name": "File_Assassin.exe",
+            "url": "https://dw.uptodown.com/dwn/a-R4B4o2UoS3SYnDH13BcU_gv9DlvZcjXlBZ8D5GN5_4GLT9BzjdBY9Tad6NaVhq3aBfDvjTeq0JD-43hAX3igMTqkpZ9-AGHcS5ayFMauQH7QrLxVN_ijFj6oOcUmWA/CGZFMUMXQ-6uUHFZviBPOfx9K1ay3eRYhhdfPMn4pGmb1ofXb8JIgHQ_T1b1_TsPUhxdFAZQDqQ-uGO9APxY623jFaqzCvMuNna50DqXN6vR6YKcN7O4nuD-rBcuWsOG/_D4M-84ywJ_ZJ8K8fqnr59anEHi2AoOZab_J72i6rVRXt8HqbvFULS7o6RtgO9EAgnWLdAqTU8WGNT-G0on4lw==/"
+        },
+        {
+            "name": "WinDirStat.exe",
+            "url": "https://www.fosshub.com/WinDirStat.html?dwl=windirstat1_1_2_setup.exe"
+        },
+        {
+            "name": "Logitech_GHUB.exe",
+            "url": "https://download01.logi.com/web/ftp/pub/techsupport/gaming/lghub_installer.exe"
+        },
+        {
+            "name": "ICUE.exe",
+            "url": "https://cwsmgmt.corsair.com/pdp/k65-rgb-mini/assets/images/icon-download.svg"
+        }
+    ],
+    "passwords": []
+}
