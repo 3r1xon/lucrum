@@ -7,3 +7,7 @@ Lucrum can debloat Windows 10 (thanks to a script that I DID NOT MAKE but Sycnex
 1 - Wipe Windows 10
 2 - Install Windows 10
 3 - Use Lucrum to debloat and Install all the softwares easily. That's it.
+
+# How to make it executable
+Download or clone all the files from GitHub.
+Once the folder is on your desktop, or wherever you want, open the cmd on that path and simply write "pyinstalle.exe --onefile --icon="icon_path.ico" __main__.py" or you can use https://pypi.org/project/auto-py-to-exe/ which makes all easier.
