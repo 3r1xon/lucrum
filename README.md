@@ -10,4 +10,4 @@ Lucrum can debloat Windows 10 (thanks to a script that I DID NOT MAKE but Sycnex
 
 # How to make it executable
 Download or clone all the files from GitHub.
-Once the folder is on your desktop, or wherever you want, open the cmd on that path and simply write "pyinstalle.exe --onefile --icon="icon_path.ico" __main__.py" or you can use https://pypi.org/project/auto-py-to-exe/ which makes all easier.
+Once the folder is on your desktop, or wherever you want, open the cmd on that path and simply write "pyinstaller.exe --onefile --icon="icon_path.ico" __main__.py" or you can use https://pypi.org/project/auto-py-to-exe/ which makes all easier.
